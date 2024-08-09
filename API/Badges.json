@@ -1,11 +1,11 @@
 {
     "userBadges": {
-        "483426392432705567": ["qverlixModerator"], // patekcz
-        "506141607335297047": ["qverlixModerator"], // desp
-        "985147716311068682": ["qverlixModerator"], // bomba
-        "992062595387359262": ["qverlixModerator"], // asura
-        "446680410437713920": ["propagator"], // sora
-        "825459215682240552": ["partnerBadge"]  // foxdex
+        "483426392432705567": ["qverlixModerator"],
+        "506141607335297047": ["qverlixModerator"],
+        "985147716311068682": ["qverlixModerator"],
+        "992062595387359262": ["qverlixModerator"],
+        "446680410437713920": ["propagator"],
+        "825459215682240552": ["partnerBadge"]
     },
     "badges": {
         "qverlixModerator": {
