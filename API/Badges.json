@@ -1,1 +1,24 @@
-
+{
+    "userBadges": {
+        "483426392432705567": ["qverlixModerator"], // patekcz
+        "506141607335297047": ["qverlixModerator"], // desp
+        "985147716311068682": ["qverlixModerator"], // bomba
+        "992062595387359262": ["qverlixModerator"], // asura
+        "446680410437713920": ["propagator"], // sora
+        "825459215682240552": ["partnerBadge"]  // foxdex
+    },
+    "badges": {
+        "qverlixModerator": {
+            "name": "qverlix moderator",
+            "imageUrl": "https://example.com/qverlix_moderator.png"
+        },
+        "propagator": {
+            "name": "propagator",
+            "imageUrl": "https://cdn1.iconfinder.com/data/icons/got-an-idea/128/milestone_leadership-512.png"
+        },
+        "partnerBadge": {
+            "name": "partner",
+            "imageUrl": "https://cdn-icons-png.flaticon.com/512/10627/10627194.png"
+        }
+    }
+}
