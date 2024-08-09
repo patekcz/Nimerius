@@ -10,7 +10,7 @@
     "badges": {
         "qverlixModerator": {
             "name": "qverlix moderator",
-            "imageUrl": "https://example.com/qverlix_moderator.png"
+            "imageUrl": "https://raw.githubusercontent.com/patekcz/Nimerius/main/API/Badges.json"
         },
         "propagator": {
             "name": "propagator",
