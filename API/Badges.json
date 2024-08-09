@@ -9,16 +9,19 @@
     },
     "badges": {
         "qverlixModerator": {
-            "name": "qverlix moderator",
-            "imageUrl": "https://cdn.discordapp.com/icons/583018158089306130/a_00d312ddc96ff515b2ee49ed01bee9bd.webp"
+            "description": "qverlix moderator",
+            "image": "https://cdn.discordapp.com/icons/583018158089306130/a_00d312ddc96ff515b2ee49ed01bee9bd.webp",
+            "position": "END"
         },
         "propagator": {
-            "name": "propagator",
-            "imageUrl": "https://cdn1.iconfinder.com/data/icons/got-an-idea/128/milestone_leadership-512.png"
+            "description": "propagator",
+            "image": "https://cdn1.iconfinder.com/data/icons/got-an-idea/128/milestone_leadership-512.png",
+            "position": "END"
         },
         "partnerBadge": {
-            "name": "partner",
-            "imageUrl": "https://cdn-icons-png.flaticon.com/512/10627/10627194.png"
+            "description": "partner",
+            "image": "https://cdn-icons-png.flaticon.com/512/10627/10627194.png",
+            "position": "END"
         }
     }
 }
