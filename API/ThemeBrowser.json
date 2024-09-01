@@ -1,4 +1,4 @@
-[
+{
         {
             name: "Tokyo Night",
             author: "Dyzean",
@@ -63,4 +63,4 @@
             link: "https://github.com/Comfy-Themes/Discord",
             css: "https://comfy-themes.github.io/Discord/betterdiscord/comfy.theme.css"
         }
-    ]
+}
