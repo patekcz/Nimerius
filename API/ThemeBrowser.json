@@ -1,66 +1,68 @@
 {
+    "themes": [
         {
-            name: "Tokyo Night",
-            author: "Dyzean",
-            description: "Elegant and dark theme inspired by the night sky.",
-            image: "",
-            link: "https://github.com/ashtrath/Tokyo-Night",
-            css: "https://raw.githubusercontent.com/Dyzean/Tokyo-Night/main/themes/tokyo-night.theme.css"
+            "name": "Tokyo Night",
+            "author": "Dyzean",
+            "description": "Elegant and dark theme inspired by the night sky.",
+            "image": "",
+            "link": "https://github.com/ashtrath/Tokyo-Night",
+            "css": "https://raw.githubusercontent.com/Dyzean/Tokyo-Night/main/themes/tokyo-night.theme.css"
         },
         {
-            name: "OperaGX Theme",
-            author: "HawkRatio",
-            description: "OperaGXTheme is a customizable theme inspired by OperaGX.",
-            image: "",
-            link: "https://github.com/L-Ratio/OperaGXTheme",
-            css: "https://l-ratio.github.io/OperaGXTheme/release/OperaGX.theme.css"
+            "name": "OperaGX Theme",
+            "author": "HawkRatio",
+            "description": "OperaGXTheme is a customizable theme inspired by OperaGX.",
+            "image": "",
+            "link": "https://github.com/L-Ratio/OperaGXTheme",
+            "css": "https://l-ratio.github.io/OperaGXTheme/release/OperaGX.theme.css"
         },
         {
-            name: "Spotify Discord",
-            author: "CapnKitten",
-            description: "Spotify Discord mimics the desktop Spotify app.",
-            image: "",
-            link: "https://github.com/CapnKitten/Spotify-Discord",
-            css: "https://capnkitten.github.io/BetterDiscord/Themes/Spotify-Discord/css/source.css"
+            "name": "Spotify Discord",
+            "author": "CapnKitten",
+            "description": "Spotify Discord mimics the desktop Spotify app.",
+            "image": "",
+            "link": "https://github.com/CapnKitten/Spotify-Discord",
+            "css": "https://capnkitten.github.io/BetterDiscord/Themes/Spotify-Discord/css/source.css"
         },
         {
-            name: "Midnight",
-            author: "refact0r",
-            description: "A stylish dark theme with rounded corners for a modern Discord look.",
-            image: "",
-            link: "https://github.com/refact0r/midnight-discord",
-            css: "https://refact0r.github.io/midnight-discord/midnight.css"
+            "name": "Midnight",
+            "author": "refact0r",
+            "description": "A stylish dark theme with rounded corners for a modern Discord look.",
+            "image": "",
+            "link": "https://github.com/refact0r/midnight-discord",
+            "css": "https://refact0r.github.io/midnight-discord/midnight.css"
         },
         {
-            name: "Horizontal Server List",
-            author: "Gibbu",
-            description: "Moves the server list from the left to the top of Discord.",
-            image: "",
-            link: "https://github.com/DiscordStyles/HorizontalServerList",
-            css: "https://raw.githubusercontent.com/DiscordStyles/HorizontalServerList/deploy/HorizontalServerList.theme.css"
+            "name": "Horizontal Server List",
+            "author": "Gibbu",
+            "description": "Moves the server list from the left to the top of Discord.",
+            "image": "",
+            "link": "https://github.com/DiscordStyles/HorizontalServerList",
+            "css": "https://raw.githubusercontent.com/DiscordStyles/HorizontalServerList/deploy/HorizontalServerList.theme.css"
         },
         {
-            name: "Couve",
-            author: "Nyria",
-            description: "A customizable Discord theme with a modern and sleek design.",
-            image: "",
-            link: "https://github.com/NYRI4/Couve/tree/main",
-            css: "https://nyri4.github.io/Couve/betterdiscord/couve.theme.css"
+            "name": "Couve",
+            "author": "Nyria",
+            "description": "A customizable Discord theme with a modern and sleek design.",
+            "image": "",
+            "link": "https://github.com/NYRI4/Couve/tree/main",
+            "css": "https://nyri4.github.io/Couve/betterdiscord/couve.theme.css"
         },
         {
-            name: "Chillax",
-            author: "wq_qt",
-            description: "stress doesn't really goes with your fit, try out chillax you might not regret it.",
-            image: "",
-            link: "https://github.com/warrayquipsome/Chillax",
-            css: "https://raw.githubusercontent.com/warrayquipsome/Chillax/main/chillax.theme.css"
+            "name": "Chillax",
+            "author": "wq_qt",
+            "description": "stress doesn't really goes with your fit, try out chillax you might not regret it.",
+            "image": "",
+            "link": "https://github.com/warrayquipsome/Chillax",
+            "css": "https://raw.githubusercontent.com/warrayquipsome/Chillax/main/chillax.theme.css"
         },
         {
-            name: "Comfy",
-            author: "Nyria",
-            description: "Stay cozy and relaxed while chatting with friends.",
-            image: "",
-            link: "https://github.com/Comfy-Themes/Discord",
-            css: "https://comfy-themes.github.io/Discord/betterdiscord/comfy.theme.css"
+            "name": "Comfy",
+            "author": "Nyria",
+            "description": "Stay cozy and relaxed while chatting with friends.",
+            "image": "",
+            "link": "https://github.com/Comfy-Themes/Discord",
+            "css": "https://comfy-themes.github.io/Discord/betterdiscord/comfy.theme.css"
         }
+    ]
 }
